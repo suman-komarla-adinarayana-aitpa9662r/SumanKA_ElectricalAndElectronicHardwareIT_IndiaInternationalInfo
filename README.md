@@ -36,4 +36,15 @@ Hardware Vendors Starter Kits - RaspberryPi
 # Software for Hardware
 
 
+# Automotive Hardware
+
+# Automotive Electronics
+
+
+# Software as a Product
+
+
+# Hardware as a Product
+
+
 https://www.raspberrypi.com/
