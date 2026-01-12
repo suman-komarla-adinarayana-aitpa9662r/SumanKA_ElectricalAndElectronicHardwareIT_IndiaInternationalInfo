@@ -20,6 +20,12 @@ https://www.openhardware.io/
 
 # Microcontroller and Microprocessor Standards
 
+https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures#Instruction_sets
+
+https://en.wikipedia.org/wiki/List_of_common_microcontrollers
+
+[ISO 26262 road vehicles functional safety] https://www.iso.org/publication/PUB200262.html
+
 
 embeddedc-hwstarterkit-raspberrypi
 Hardware Vendors Starter Kits - RaspberryPi
