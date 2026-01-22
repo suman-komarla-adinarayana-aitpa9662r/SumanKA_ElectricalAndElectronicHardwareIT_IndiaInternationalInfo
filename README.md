@@ -30,6 +30,8 @@ https://en.wikipedia.org/wiki/List_of_common_microcontrollers
 embeddedc-hwstarterkit-raspberrypi
 Hardware Vendors Starter Kits - RaspberryPi
 
+# Multicore and Manycore Technology Standards
+
 
 # Sensors and Actuator Standards
 
