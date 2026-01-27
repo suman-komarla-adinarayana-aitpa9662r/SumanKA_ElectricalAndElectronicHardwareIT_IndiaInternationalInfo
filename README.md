@@ -68,7 +68,11 @@ Hardware Vendors Starter Kits - RaspberryPi
 # Automotive Hardware Lab Devices,Equipments,Components
 
 
-# Hardware Vendors/OEMS/SUPPLIERS/TOOLS/
+# Hardware Vendors/OEMS/SUPPLIERS/
+
+https://www.infineon.com/product-information
+
+# TOOLS/
 
 https://www.raspberrypi.com/
 
