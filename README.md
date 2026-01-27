@@ -81,6 +81,8 @@ https://www.st.com/en/automotive-microcontrollers.html
 
 https://www.nxp.com/products/processors-and-microcontrollers:MICROCONTROLLERS-AND-PROCESSORS
 
+https://www.microchip.com/en-us/solutions/automotive-and-transportation/automotive-products/microcontrollers
+
 
 
 # TOOLS/
