@@ -26,6 +26,8 @@ https://en.wikipedia.org/wiki/List_of_common_microcontrollers
 
 [ISO 26262 road vehicles functional safety] https://www.iso.org/publication/PUB200262.html
 
+https://www.microchip.com/en-us/solutions/automotive-and-transportation/automotive-products/microcontrollers
+
 
 embeddedc-hwstarterkit-raspberrypi
 Hardware Vendors Starter Kits - RaspberryPi
