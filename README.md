@@ -83,6 +83,10 @@ https://www.nxp.com/products/processors-and-microcontrollers:MICROCONTROLLERS-AN
 
 https://www.microchip.com/en-us/solutions/automotive-and-transportation/automotive-products/microcontrollers
 
+https://www.renesas.com/en/products/microcontrollers-microprocessors
+
+https://www.ti.com/product-category/microcontrollers-processors/mcus/overview.html
+
 
 
 # TOOLS/
