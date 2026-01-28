@@ -35,11 +35,29 @@ https://en.wikipedia.org/wiki/List_of_common_microcontrollers
 
 [ISO 26262 road vehicles functional safety] https://www.iso.org/publication/PUB200262.html
 
+
+https://www.infineon.com/products/microcontroller
+
 https://www.microchip.com/en-us/solutions/automotive-and-transportation/automotive-products/microcontrollers
+
+https://www.st.com/en/automotive-microcontrollers.html
+
+https://www.nxp.com/products/processors-and-microcontrollers:MICROCONTROLLERS-AND-PROCESSORS
+
+https://www.microchip.com/en-us/solutions/automotive-and-transportation/automotive-products/microcontrollers
+
+https://www.renesas.com/en/products/microcontrollers-microprocessors
+
+https://www.ti.com/product-category/microcontrollers-processors/mcus/overview.html
+
+https://www.qualcomm.com/processors
 
 
 embeddedc-hwstarterkit-raspberrypi
 Hardware Vendors Starter Kits - RaspberryPi
+
+
+
 
 # Multicore and Manycore Technology Standards
 
@@ -86,15 +104,7 @@ Hardware Vendors Starter Kits - RaspberryPi
 
 https://www.infineon.com/product-information
 
-https://www.st.com/en/automotive-microcontrollers.html
 
-https://www.nxp.com/products/processors-and-microcontrollers:MICROCONTROLLERS-AND-PROCESSORS
-
-https://www.microchip.com/en-us/solutions/automotive-and-transportation/automotive-products/microcontrollers
-
-https://www.renesas.com/en/products/microcontrollers-microprocessors
-
-https://www.ti.com/product-category/microcontrollers-processors/mcus/overview.html
 
 
 
@@ -122,5 +132,8 @@ https://electronicsera.in/magazine/
 
 http://www.efyindia.com/
 
+http://eb.efyindia.com/index.asp?id=20
+
 https://www.electronicsforu.com/magazine
 
+https://autocomponentsindia.com/
