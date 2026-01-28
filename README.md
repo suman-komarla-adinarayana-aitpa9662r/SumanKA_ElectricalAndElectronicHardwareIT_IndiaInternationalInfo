@@ -6,6 +6,13 @@ https://www.openhardware.io/
 
 # Electrical And Electronics
 
+ex:- Plugin Hybrid Electric Vehicle , Onboard Vehicle Battery Charging and Discharging, Energy Regeneration , Power Electronics, etc
+
+# Telecommunication 
+
+ex:- Automotive Cybersecurity, Internet of Things, Electronic Tolling, Vehicle to Vehicle Communication, etc
+
+# Electromechanical
 
 # Analog Devices and Circuits
 
