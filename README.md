@@ -14,13 +14,19 @@ ex:- Automotive Cybersecurity, Internet of Things, Electronic Tolling, Vehicle t
 
 # Electromechanical
 
-ex:- Throttle Valve, Exhaust Gas Regulation Valve, Injector Valve (Piezo and Solenoid) , Electrically Controller Turbo Charger, etc
+ex:- Throttle Valve, Exhaust Gas Regulation Valve, Injector Valve (Piezo and Solenoid) , Electrically Controller Turbo Charger, Main Relay,etc
 
 # Analog Devices and Circuits
 
+ex:- Pulse width Modulator, Analog to Digital Converter,etc
+
 # Digital Devices and Circuits
 
+ex:- Digital Input Output , etc 
+
 # Mixed Signal Devices and Circuits
+
+
 
 # Hobby Project Kits
 
