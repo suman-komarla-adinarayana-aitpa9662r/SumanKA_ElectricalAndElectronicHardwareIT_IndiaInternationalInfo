@@ -157,6 +157,18 @@ https://www.raspberrypi.com/
 
 # Benchmarks, User Reviews, etc for Electrical/Electronic/ElectroMechanical/Hardware Applications
 
+
+https://www.eembc.org/products/
+
+https://www.spec.org/products/
+
+https://en.wikipedia.org/wiki/Transaction_Processing_Performance_Council
+
+https://en.wikipedia.org/wiki/Benchmark_(computing)
+
+
+
+
 https://www.arenaev.com/makers.php3
 
 https://www.gsmarena.com/makers.php3
